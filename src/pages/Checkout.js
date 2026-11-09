@@ -56,7 +56,7 @@ function Checkout() {
             }}
           >
             <i className="fas fa-crown me-2"></i>
-            Amoura
+            MAISON AVELINE
           </a>
 
         </div>

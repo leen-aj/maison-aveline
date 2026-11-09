@@ -13,7 +13,7 @@ function Home() {
           <div className="carousel-item active">
 
             <img
-              src="/images/Amoura.jpeg"
+              src="/images/maison-aveline-banner.png"
               className="d-block w-100"
               alt="Fashion"
             />
@@ -30,7 +30,7 @@ function Home() {
 
           <div className="carousel-item">
             <img
-              src="/https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1800"
+              src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1800&auto=format&fit=crop"
               className="d-block w-100"
               alt="Fashion"
             />
@@ -146,7 +146,7 @@ function Home() {
 
         <div className="container text-center">
 
-          <h2>Join the LuxeStyle Experience</h2>
+          <h2>Join the Maison Aveline Experience</h2>
 
           <p>
             Unlock exclusive collections, save your measurements,
@@ -178,7 +178,7 @@ function Home() {
 
             <p>
               "Absolutely stunning quality.
-              I feel so confident wearing Amoura."
+              I feel so confident wearing Maison Aveline."
             </p>
 
             <h6>- Sarah M.</h6>
@@ -223,10 +223,10 @@ function Home() {
 
         <div className="about-content">
 
-          <h2>About LuxeStyle</h2>
+          <h2>The Maison Aveline Story</h2>
 
           <p>
-            Amoura is more than fashion — it's confidence,
+            Maison Aveline is more than fashion — it's confidence,
             elegance, and identity. We design pieces that empower
             women to feel bold, stylish, and unforgettable.
           </p>
@@ -245,7 +245,7 @@ function Home() {
       </section>
 
       <footer>
-        <p>© 2026 Amoura</p>
+        <p>© 2026 Maison Aveline</p>
       </footer>
 
     </>
