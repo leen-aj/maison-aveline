@@ -1,8 +1,8 @@
-# Amoura Fashion Store
+# Maison aveline
 
 ## Project Description
 
-Amoura Fashion Store is a React-based online fashion shopping website. Users can browse products, add items to the cart, save favorites to a wishlist, take a personalized style quiz, check recommended outfits, enter body measurements to find their size, and complete purchases through the checkout page.
+Maison aveline Fashion Store is a React-based online fashion shopping website. Users can browse products, add items to the cart, save favorites to a wishlist, take a personalized style quiz, check recommended outfits, enter body measurements to find their size, and complete purchases through the checkout page.
 
 ## Features
 
